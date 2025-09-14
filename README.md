@@ -58,5 +58,5 @@ The goal of this project was to practice **state variables, view functions, and 
 
 ## 👤 Author
 **Your Name**  
-Learning blockchain & Web3 development | Follow my journey on [GitHub](https://github.com/your-username)
+Learning blockchain & Web3 development | Follow my journey on [GitHub](https://github.com/Akshat0125)
 
